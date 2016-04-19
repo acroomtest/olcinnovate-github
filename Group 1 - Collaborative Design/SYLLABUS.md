@@ -4,7 +4,7 @@
 
 **Unit**
 
-## Course Number: Course Title
+## Course Number: Sociology
 
 **Semester Year**
 
